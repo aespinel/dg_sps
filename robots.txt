@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /media/*
+Disallow: /media/
+Disallow: /analytics/
+Disallow: /analytics/*
+Disallow: /farmerbook/
+Disallow: /farmerbook/*
